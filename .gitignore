@@ -1,0 +1,7 @@
+# Publish only these reviewed files. Dumps, logs and generated binaries stay local.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/amt.py
+!/test_amt.py
